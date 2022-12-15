@@ -19,7 +19,7 @@ export default function TemplateTheme({ Component }) {
             <div>
                 <Component />
             </div>
-            <Footer />
+            {/* <Footer /> */}
         </div>
     );
 }
